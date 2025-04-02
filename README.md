@@ -1,2 +1,2 @@
 # MalariaGen
- to run the malaeia gen training
+ to run the malariagen training
